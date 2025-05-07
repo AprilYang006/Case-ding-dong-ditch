@@ -1,5 +1,5 @@
 # Case-ding-dong-ditch (2024)
-A demo game created in unity based on its text based version created in 2022.
+A demo game created in unity based on its text based full version created in 2022 (which was sadly deleted from replit RIP).
 
 # Instructions to open project 
 - Download the zip file and unzip the file when downloaded.
